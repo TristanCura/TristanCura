@@ -28,3 +28,5 @@
 <br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tristancura&show_icons=true&locale=en&layout=compact" alt="tristancura" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristancura&show_icons=true&locale=en" alt="tristancura" /></p>
+
+![681564](https://github.com/TristanCura/TristanCura/assets/111546355/b605e23c-caa0-4ce0-8862-90f7c9538db2)
