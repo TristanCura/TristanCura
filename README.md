@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan Cura!</h1>
 <h3 align="center">I am a Freelance Digital Artist specializing in 3D Modeling, I am also well knowledged in programming languages such as Java, Python, and .Net!</h3>
 
-![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f32513046696b725646624f4c33413d3d2d313132353133323239362e313666613039656230666633346438303937313739](https://github.com/TristanCura/TristanCura/assets/111546355/e25219c0-c815-42cf-b273-895a86030c49)
-
+![tumblr_aba0f312d87cbd5a551cb8f6e34e31e1_c3f6bc60_2000](https://github.com/TristanCura/TristanCura/assets/111546355/16268fea-2928-4b5d-8677-b4a3bcfc4a04)
 
 <p align="left"> <a href="https://twitter.com/_mantouu" target="blank"><img src="https://img.shields.io/twitter/follow/_mantouu?logo=twitter&style=for-the-badge" alt="_mantouu" /></a> </p>
 
