@@ -1,5 +1,5 @@
 <h1 align="center">‿̩͙‿ ༺ ♰ ༻ ‿̩͙‿<br>Hey! I'm Tristan!<br>· · ─────── ·𖥸· ─────── · ·</h1>
-<h3 align="center">I am a Freelance Digital Artist specializing in 3D Modeling, I am also well knowledged in programming languages such as Java, Python, and .Net's C# !</h3>
+<h3 align="center">I am a Freelance Digital Artist specializing in 3D Modeling, I am also well knowledged on programming languages such as Java, Python, and .Net's C# !</h3>
 
 ![tumblr_aba0f312d87cbd5a551cb8f6e34e31e1_c3f6bc60_2000](https://github.com/TristanCura/TristanCura/assets/111546355/16268fea-2928-4b5d-8677-b4a3bcfc4a04)
 
