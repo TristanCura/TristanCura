@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan Cura!</h1>
 <h3 align="center">I am a Freelance Digital Artist specializing in 3D Modeling, I am also well knowledged in programming languages such as Java, Python, and .Net!</h3>
-![brown-aesthetic-train-xtypg4id5jpqjogf](https://github.com/TristanCura/TristanCura/assets/111546355/e75297e2-247f-44b0-80d1-65a5c9c82228)
+
+![brown-aesthetic-train-xtypg4id5jpqjogf](https://github.com/TristanCura/TristanCura/assets/111546355/7b2fee21-5063-4a22-b34c-e14a9e6fa031)
 
 <p align="left"> <a href="https://twitter.com/_mantouu" target="blank"><img src="https://img.shields.io/twitter/follow/_mantouu?logo=twitter&style=for-the-badge" alt="_mantouu" /></a> </p>
 
